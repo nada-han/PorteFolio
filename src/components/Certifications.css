@@ -1,0 +1,17 @@
+.custom-image {
+    max-width: 150%;
+    max-height: 400px; /* Ajustez cette valeur selon vos besoins */
+    object-fit: contain; /* ou object-fit: cover; en fonction de l'effet souhaité */
+  }
+h2 {
+    text-align : center;
+
+
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}

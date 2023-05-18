@@ -1,0 +1,19 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .image-container {
+    margin-bottom: 20px;
+  }
+  
+  .image-container img {
+    max-width: 40%;
+  }
+  
+  .content-container {
+    text-align: center;
+  }
+  
